@@ -1,2 +1,3 @@
-# neunet_training_on_tensor
-Process of training neunet on iris dataset
+# Neunet versus TensorFlow on Iris dataset
+Document process of training neural network implementation (neunet) on Iris dataset
+Compared with TensorFlow implementation
